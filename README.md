@@ -1,7 +1,3 @@
-Here’s a README template for your GitHub repository:
-
----
-
 # Comprehensive Movie Data Analysis and Visualization
 
 ## Project Overview
@@ -64,7 +60,3 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear overview, installation instructions, and usage details for anyone who wants to understand or contribute to your project.
